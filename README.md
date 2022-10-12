@@ -4,11 +4,7 @@
 Gather temperature data for the months of June and December in Oahu to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Software
-Jupyter Notebook
-Python
-SQLite
-SQLAlchemy
-Pandas
+Jupyter Notebook, Python, SQLite, SQLAlchemy, Pandas
 
 ## Results
 Gather temperature data for the months of June and December
