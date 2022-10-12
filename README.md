@@ -8,7 +8,6 @@ Jupyter Notebook
 Python
 SQLite
 SQLAlchemy
-Matplotlib
 Pandas
 
 ## Results
